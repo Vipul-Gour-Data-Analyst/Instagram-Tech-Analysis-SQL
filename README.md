@@ -287,5 +287,3 @@ If this project helped you learn SQL or inspired your own analysis, consider giv
 
 This project is created for educational, learning, and portfolio purposes.
 =======
-# Instagram-Influencer-Analysis-SQL
->>>>>>> b7b74cebc12c13e8e98a31763c1966c0098b1ace
